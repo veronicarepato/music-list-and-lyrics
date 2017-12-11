@@ -1,0 +1,392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"React",
+				"ReactDOM"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"overf",
+				"text-overflow"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"h",
+				"head\tTag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"TE",
+				"TEXTAREA\tTag"
+			],
+			[
+				"app",
+				"app_no"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"c",
+				"compatability"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"v",
+				"version"
+			],
+			[
+				"d",
+				"developer"
+			],
+			[
+				"r",
+				"rating"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "javascrip",
+		"selected_items":
+		[
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Desktop/unpack/assets/www/cordova-js-src/plugin/android/app.js",
+		"/D/Documents/app/music.html",
+		"/D/Desktop/unpack/assets/www/js/config.js",
+		"/D/Documents/MUSIC/M2.html",
+		"/D/Documents/app/m10.html",
+		"/D/Documents/MUSIC/m9.html",
+		"/D/Documents/MUSIC/m8.html",
+		"/D/Documents/MUSIC/m7.html",
+		"/D/Documents/MUSIC/m6.html",
+		"/D/Documents/MUSIC/m5.html",
+		"/D/Documents/MUSIC/m4.html",
+		"/D/Documents/MUSIC/M3.html",
+		"/D/Documents/M1.html",
+		"/D/Desktop/meow/home2.html",
+		"/D/Desktop/meow/gallery.html",
+		"/D/Desktop/Rufo/APP.html",
+		"/C/Users/Acer/project/public/index.html",
+		"/D/Documents/MUSIC/M1.html",
+		"/C/wamp64/www/Framework7-master/src/my-app/my-app.js",
+		"/C/wamp64/www/Framework7-master/build/index.html",
+		"/D/Desktop/Rufo/Eleventh.html",
+		"/D/Desktop/Rufo/fifteenth.html",
+		"/D/Desktop/Rufo/Fourteenth.html",
+		"/D/Desktop/Rufo/Thirteenth.html",
+		"/D/Desktop/Rufo/Twelveth.html",
+		"/D/Desktop/Rufo/Tenth.html",
+		"/D/Desktop/Rufo/Ninth.html",
+		"/D/Desktop/Rufo/First.html",
+		"/D/Desktop/Rufo/Second.html",
+		"/D/Desktop/Rufo/Third.html",
+		"/D/Desktop/Rufo/Eight.html",
+		"/D/Desktop/Rufo/Seventh.html",
+		"/D/Desktop/Rufo/Sixth.html",
+		"/D/Desktop/Rufo/Fifth.html",
+		"/D/Desktop/Rufo/Fourth.html",
+		"/D/Desktop/Rufo/index.html",
+		"/D/Desktop/Rufo/Fiftteenth.html",
+		"/D/Desktop/Title/Title.html",
+		"/D/Desktop/Title/First.html",
+		"/D/Desktop/meow/about.html",
+		"/D/Desktop/Title.html",
+		"/D/Desktop/APP.html",
+		"/D/Desktop/benHTML/galleryben.html",
+		"/G/final-react-app/src/App.js",
+		"/D/Desktop/meow/home.html",
+		"/D/Documents/play.html",
+		"/D/Desktop/final-react-app/src/App.js",
+		"/C/wamp64/www/Framework7-master/kitchen-sink-material/jade/color-themes.jade",
+		"/C/Users/Acer/my-app/src/App.js",
+		"/C/Users/Acer/veronplay/src/App.js",
+		"/C/wamp64/www/Framework7-master/kitchen-sink-ios/jade/color-themes.jade",
+		"/D/Documents/rd/About.html",
+		"/D/Documents/rd/Gallery.html",
+		"/D/Documents/rd/Home.html",
+		"/D/Documents/play1.html",
+		"/C/Users/Acer/play/src/App.css",
+		"/C/Users/Acer/hello/www/index.html",
+		"/D/Desktop/meow/try.html",
+		"/D/Documents/sample.html",
+		"/D/Documents/rop.html",
+		"/F/System Volume Information/IndexerVolumeGuid",
+		"/D/Desktop/DianMagana/Home.html",
+		"/D/Desktop/DianMagana/Gallery.html",
+		"/D/Desktop/DianMagana/About.html",
+		"/D/Desktop/DianMagana/AboutR.html.html",
+		"/D/Desktop/DianMagana/AboutD.html",
+		"/D/Documents/PHP/main.php",
+		"/F/rubenHTML/sidenav.html",
+		"/D/Desktop/meow/ah.html",
+		"/D/Desktop/fairy tail/ex.html",
+		"/D/Desktop/meow/ben.html",
+		"/F/rubenHTML/ben.html",
+		"/F/rubenHTML/aboutben.html",
+		"/F/rubenHTML/galleryben.html",
+		"/F/My Web/home.html",
+		"/D/Desktop/junelyn/chai.html",
+		"/D/Desktop/meow/r.html",
+		"/D/Desktop/meow/seirin.html",
+		"/G/rubenHTML/ben.html",
+		"/D/Desktop/meow/gallery2.html",
+		"/D/Desktop/junelyn/galery.html",
+		"/D/Desktop/junelyn/about.html",
+		"/D/Desktop/meow/gal.html",
+		"/D/Desktop/New folder/index.html",
+		"/D/Desktop/meow/home3.html",
+		"/D/Desktop/New folder/home.html",
+		"/D/Documents/web dev/ft.html",
+		"/C/wamp64/www/App Info/front end.php",
+		"/D/Documents/web dev/sample.html",
+		"/D/Documents/web dev/jt.html",
+		"/C/wamp64/www/App Info/dbconnect.php",
+		"/D/Documents/web dev.html",
+		"/C/Users/Acer/AppData/Local/Microsoft/Windows/INetCache/IE/LHAFNZR2/editrecord[1].php",
+		"/C/Users/Acer/AppData/Local/Microsoft/Windows/INetCache/IE/KVBMO12R/deleterecord[1].php",
+		"/C/Users/Acer/AppData/Local/Microsoft/Windows/INetCache/IE/OC33NU2I/dbconnect[1].php",
+		"/D/Documents/windows",
+		"/D/Desktop/veronica.html",
+		"/D/Desktop/New folder/ver.js",
+		"/D/Desktop/New folder/ver.html",
+		"/D/Desktop/New folder/veronica.js",
+		"/G/chai/array.php",
+		"/C/wamp64/www/index.php",
+		"/C/wamp64/www/anime/main.php",
+		"/C/wamp64/www/play/HELLO.html",
+		"/C/wamp64/www/book/editform.php",
+		"/C/wamp64/www/anime/editrecord.php",
+		"/C/wamp64/www/anime/dbconnect.php",
+		"/C/wamp64/www/anime/insert.php",
+		"/C/wamp64/www/book/editrecord.php",
+		"/C/wamp64/www/book/insertrecord.php",
+		"/C/wamp64/www/book/main.php",
+		"/C/wamp64/www/mobile app/deleterecord2.php",
+		"/C/wamp64/www/mobile app/editform2.php",
+		"/C/wamp64/www/mobile app/editrecord2.php",
+		"/C/wamp64/www/mobile app/insertrecord2.php",
+		"/C/wamp64/www/mobile app/main.php",
+		"/C/wamp64/www/project/mismo.php",
+		"/C/wamp64/www/sample/dbconnect.php",
+		"/C/wamp64/www/main.php",
+		"/C/wamp64/www/add_vhost.php",
+		"/C/wamp64/www/editrecord.php",
+		"/C/wamp64/www/deleterecord.php",
+		"/C/wamp64/www/insertrecord.php",
+		"/C/wamp64/www/editform.php",
+		"/C/wamp64/www/mobile app/delete record.php",
+		"/C/wamp64/www/mobile app/edit record.php",
+		"/C/wamp64/www/mobile app/insert record.php",
+		"/C/wamp64/www/App Info/deleterecord.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "process.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
